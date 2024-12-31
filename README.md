@@ -1,2 +1,3 @@
 # Tenda
-Tenda AC18V15.03.05.05
+Tenda AC18 US_AC18V1.0BR_V15.03.05.05_multi_TD01
+具体内容查看Tenda AC18 US_AC18V1.0BR_V15.03.05.05_multi_TD01.pdf
